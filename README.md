@@ -10,6 +10,14 @@ Modulando el diálogo entre formación técnica y la  producción  artística se
 
 Desde el  paisaje  patagónico que  habitan, experimentan, piensan y trabajan como un modo más  de existencia territorial.
 
-## Plano
+## Diagrama
 
 ![diagramaArduino](https://user-images.githubusercontent.com/58257037/69723483-6aebe600-10f8-11ea-9253-2a5c1e2c50b6.jpg)
+
+## Componentes utilizados
+
+* ARDUINO UNO
+* 2 LDR
+* 3 SENSORES INFRARROJO LM393
+* 1 FUENTE 5V
+* MODULO SD AVR ARM PIC
