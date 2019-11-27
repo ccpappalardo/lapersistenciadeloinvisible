@@ -1,7 +1,7 @@
 # La persistencia de lo invisible
 Arduino - Proyecto Grupal Arduino + Arte - Instalación sonora.
 
-# Autorxs
+## Autorxs
 Milton Fernandez+Carla Pappalardo+Sofia Nordenstrom+Mauro Rosas.
 
 Conforman  un colectivo de investigación y producción artística transdisciplinaria experimental, que además cuenta con eventuales colaboradores.
